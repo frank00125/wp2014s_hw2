@@ -1,0 +1,45 @@
+.background{
+	background: pink;
+}
+
+a:visited, a:link 
+{
+	text-decoration: none;
+	color: #0000FF;
+}
+
+a:hover, a:active
+{
+	text-decoration: underline;
+	color: #0000FF;
+}
+
+div.up{
+	text-align: center;
+	
+}
+
+div#content1, div#content2{
+	margin: 0px;
+}
+
+div#content1{
+	display: block;
+	height: 593px;
+}
+
+div#content2{
+	display: block;
+}
+
+div#content2 div, div#content2 hr{
+	margin-left: 10px;
+}
+
+div#content2:first-child{
+	margin: 0px 0px 10px 0px; 
+}
+
+header#header{
+	margin: 0px;
+}
