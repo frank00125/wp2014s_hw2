@@ -43,3 +43,8 @@ div#content2:first-child{
 header#header{
 	margin: 0px;
 }
+
+footer#form{
+	background: #FFFFFF;
+	text-align: none;
+}
